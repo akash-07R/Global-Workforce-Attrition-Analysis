@@ -9,19 +9,19 @@ employee attrition, compensation, performance, and employee experience.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/Executive-overview.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](screenshots/attrition-analysis.png)
+![Attrition Analysis](screenshots/Attrition-analysis.png)
 
 ### Compensation & Performance
 
-![Compensation & Performance](screenshots/compensation-performance.png)
+![Compensation & Performance](screenshots/Compensation-performance.png)
 
 ### Employee Experience
 
-![Employee Experience](screenshots/employee-experience.png)
+![Employee Experience](screenshots/Employees-experience.png)
 
 ---
 
